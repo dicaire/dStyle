@@ -1,6 +1,9 @@
 # dStyle
 Hugo Theme based on the Design System
 
+## What this project does
+This repository includes a project structure with a build script that builds a custom web site using a static site generator (e.g., [Hugo](https://GoHugo.io). You can clone this repository underneath your hugo repository so you can instantly see the outcome :wink:.
+
 ## Contents
 You'll find a series of template pages with the most common uses of our components and layout:
 - [Corporate Landing Page](https:/dicaire.com).
@@ -14,6 +17,7 @@ You'll find a series of template pages with the most common uses of our componen
 
 ### Framework
 - Grid layout examples (USWDS columns)
+- There's also an HTML files that contains a neatly organized collection of USWDS components 
 
 # Quick start
 
